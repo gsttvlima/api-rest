@@ -1,0 +1,16 @@
+{
+    "name": "gsttvlima/api-rest",
+    "description": "PHP API REST example",
+    "autoload": {
+        "psr-4": {
+            "APP\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "gsttvlima",
+            "email": "whoisgustavolima@gmail.com"
+        }
+    ],
+    "require": {}
+}
